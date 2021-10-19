@@ -1,4 +1,4 @@
-# my-project
+# Quiz App ✔
 
 ## Project setup
 ```
